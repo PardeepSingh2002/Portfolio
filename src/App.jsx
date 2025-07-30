@@ -3,7 +3,7 @@ import './index.css';
 import Navbar from './Components/Navbar.jsx';
 import Footer from './Components/Footer.jsx';
 import Hero from './Pages/Hero.jsx';
-import About from './Pages/about.jsx';
+import About from './Pages/About.jsx';
 import Projects from './Pages/Projects.jsx';
 import Contact from './Pages/Contact.jsx';
 
